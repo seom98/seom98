@@ -16,10 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| GitHub stats | GitHub Streak |
-|---|---|
-|![seom98's GitHub stats](https://github-readme-stats.vercel.app/api?username=seom98&show_icons=true&theme=dracula&height=400)|![GitHub Streak](https://streak-stats.demolab.com?user=seom98&theme=dracula&height=400)|
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seem98)
+## Stats
+|<img src="https://github-readme-stats.vercel.app/api?username=seom98&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=seom98&theme=dracula&hide_border=false" alt="cxyfreedom" />|
+|:---:|:---:|
+   
+|<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seom98&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>|![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seem98)|
+|:---:|:---:|
+
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,1&animation=twinkling&textBg=false&fontSize=40&descAlignY=48&fontAlignY=30&reversal=true&fontColor=ffffff&section=footer)
+
+
