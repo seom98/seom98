@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5356FF&height=250&section=header&text=seom98의%20GitHub&fontSize=70&fontColor=ffffff)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=0,1,7,12,14,15,18,20,22,24,27&text=seom98's%20gitHub&animation=twinkling&textBg=false&fontSize=40&desc=Front-End%20Developer&descAlignY=48&fontAlignY=30&reversal=true&fontColor=ffffff)
 ## Hi there 👋
 
 <!--
@@ -26,4 +25,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seom98)](https://github.com/seom98/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=5356FF&height=200&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,1,7,12,14,15,18,20,22,24,27&animation=twinkling&textBg=false&fontSize=40&descAlignY=48&fontAlignY=30&reversal=true&fontColor=ffffff&section=footer)
