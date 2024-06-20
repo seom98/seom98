@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=0,1&text=seom98's%20gitHub&animation=twinkling&textBg=false&fontSize=40&desc=Front-End%20Developer&descAlignY=48&fontAlignY=30&reversal=true&fontColor=ffffff)
 
+<div align="center">
+
 #### 소통과 UI/UX을 중요시하고, 수학적 논리를 갖춘 프론트엔드 개발자 서만기입니다.
 
 ---
-<div align="center">
+
 
 ### Available Technology Stacks
 <p>
@@ -45,7 +47,7 @@
    <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualStudioCode&logoColor=white"/>
 </p>
-</div>
+
 ---
 
 ### Experience & Awards
@@ -53,15 +55,15 @@
 
 (2023.07 - 2024.06)
 
-- 삼성청년 SW 아카데미 자율 프로젝트 우수(2위) | 2024.05.20 |   
-- 삼성청년 SW 아카데미 특화 프로젝트 우수(1위) | 2024.04.05 |   
-- 삼성청년 SW 아카데미 공통 프로젝트 우수(1위) | 2024.02.16 |   
+삼성청년 SW 아카데미 자율 프로젝트 **<span style="color::#C0C0C0">우수(2위)</span>** | 2024.05.20 |   
+삼성청년 SW 아카데미 특화 프로젝트 **<span style="color:#FFD700">우수(1위)</span>** | 2024.04.05 |   
+삼성청년 SW 아카데미 공통 프로젝트 **<span style="color=#FFD700">우수(1위)</span>** | 2024.02.16 |   
 
 [ 충남대학교 수학과 졸업 ]
 
 (2017.03 - 2023.02)   
 
-- 충남대학교 SW 아카데미 1기 동계 이수 | 2022.12 ~ 2023.03 |   
+충남대학교 SW 아카데미 1기 동계 이수 | 2022.12 ~ 2023.03 |   
 
 ---
 
@@ -69,7 +71,7 @@
    
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seem98)
 
-
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,1&animation=twinkling&textBg=false&fontSize=40&descAlignY=48&fontAlignY=30&reversal=true&fontColor=ffffff&section=footer)
 
