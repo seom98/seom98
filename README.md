@@ -3,6 +3,8 @@
 #### 소통과 UI/UX을 중요시하고, 수학적 논리를 갖춘 프론트엔드 개발자 서만기입니다.
 
 ---
+<div align="center">
+
 ### Available Technology Stacks
 <p>
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -43,7 +45,7 @@
    <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualStudioCode&logoColor=white"/>
 </p>
-
+</div>
 ---
 
 ### Experience & Awards
